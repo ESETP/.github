@@ -1,5 +1,5 @@
 # Hyasynth
-This project was created as a 4th year Electronics and Software Engineering team project for the Univeristy of Glasgow. It is designed to be reprogrammable.
+Hyasynth is a musical synth badge created as a 4th year Electronics and Software Engineering team project for the Univeristy of Glasgow. It is designed to be reprogrammable.
 
 ## Reprogram My Hyasynth
 Check out [this guide](https://github.com/ESETP/LaserBee/blob/main/Flashing.md) to learn how to reprogram and flash your Hyasynth.
